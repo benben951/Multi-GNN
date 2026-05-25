@@ -139,4 +139,3 @@ def get_data(args, data_config):
     logging.info(f'test data object: {te_data}')
 
     return tr_data, val_data, te_data, tr_inds, val_inds, te_inds
-    
